@@ -16,7 +16,7 @@ Clone the repository into the source directory:
 Create the `husser13` conda environment:
 
     cd /Users/valenti/python/husser13
-    conda env create -f husser13.yml
+    conda env create -f environment.yml
 
 Activate the `husser13` conda environment:
 
