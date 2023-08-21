@@ -1,0 +1,12 @@
+name: husser13
+channels:
+  - conda-forge
+dependencies:
+  - astropy
+  - matplotlib
+  - numpy
+  - pip
+  - python=3.11
+  - scipy
+  - pip:
+    - -e /Users/valenti/python/husser13

@@ -1,0 +1,6 @@
+astropy[recommended]
+matplotlib
+numpy
+pip
+scipy
+git+https://github.com/JeffValenti/husser13.git
